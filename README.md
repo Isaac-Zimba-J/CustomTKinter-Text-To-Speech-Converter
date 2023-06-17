@@ -7,3 +7,4 @@ Currently has some cool features as
 3. increase and decrease the volume
 More features will be added.
 I made this in order learn how the customTkinter library works and feels on my fingertips :)
+You are free to use, or modify the code or add to improve it
